@@ -3,25 +3,15 @@
 <!-- PARTH MAHAJAN | CYBERPUNK TERMINAL PROFILE -->
 
 <table>
-<tr>
-<td>
-
-`●` `●` `●` &nbsp; **parthmahajan30 / README.md**
-
-</td>
-</tr>
+<tr><td>`●` `●` `●` &nbsp; **parthmahajan30 / README.md**</td></tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:05080A,50:0D1117,100:003B2B&text=PARTH%20MAHAJAN&fontColor=00FF88&fontSize=48&fontAlignY=45&desc=%3E%20Code%20%20%7C%20%20Learn%20%20%7C%20%20Build%20%20%7C%20%20Repeat&descAlignY=68&descSize=16&animation=twinkling" width="100%" alt="Parth Mahajan cyberpunk terminal banner"/>
 
 <br/>
 
-<a href="https://github.com/parthmahajan30">
-  <img src="https://img.shields.io/badge/GitHub-parthmahajan30-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/parthmahajan30?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=git&logoColor=00FF88" alt="Explore repositories"/>
-</a>
+<a href="https://github.com/parthmahajan30"><img src="https://img.shields.io/badge/GitHub-parthmahajan30-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub profile"/></a>
+<a href="https://github.com/parthmahajan30?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=git&logoColor=00FF88" alt="Explore repositories"/></a>
 
 ### `Building · Learning · Growing`
 
@@ -31,8 +21,7 @@
 
 ## `01` — About me
 
-<table>
-<tr>
+<table><tr>
 <td width="62%" valign="top">
 
 ### Hey, I'm Parth Mahajan 👋
@@ -57,17 +46,14 @@ I'm a developer who enjoys turning ideas into practical software, exploring new 
 ```
 
 </td>
-</tr>
-</table>
+</tr></table>
 
 ---
 
 ## `02` — Connect
 
 <div align="center">
-
 <a href="https://github.com/parthmahajan30" title="GitHub"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/></a>
-
 </div>
 
 ---
@@ -75,17 +61,14 @@ I'm a developer who enjoys turning ideas into practical software, exploring new 
 ## `03` — Tech stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,python,cpp,html,css,tailwind,git,github,vscode&theme=dark" alt="Technology icons"/>
-
 </div>
 
 ---
 
 ## `04` — Featured reel
 
-<table>
-<tr>
+<table><tr>
 <td width="50%" valign="top">
 
 ### ⌘ Original & public repositories
@@ -104,18 +87,11 @@ Explore open-source repositories I've forked and followed.
 [**Browse forked repositories →**](https://github.com/parthmahajan30?tab=repositories&q=is%3Afork)
 
 </td>
-</tr>
-</table>
+</tr></table>
 
 <div align="center">
-
-<a href="https://github.com/parthmahajan30?tab=repositories">
-  <img src="https://img.shields.io/badge/All%20Repositories-00FF88?style=for-the-badge&logo=github&logoColor=05080A" alt="All repositories"/>
-</a>
-<a href="https://github.com/parthmahajan30?tab=repositories&q=is%3Afork">
-  <img src="https://img.shields.io/badge/Forked%20Projects-10B981?style=for-the-badge&logo=git&logoColor=05080A" alt="Forked projects"/>
-</a>
-
+<a href="https://github.com/parthmahajan30?tab=repositories"><img src="https://img.shields.io/badge/All%20Repositories-00FF88?style=for-the-badge&logo=github&logoColor=05080A" alt="All repositories"/></a>
+<a href="https://github.com/parthmahajan30?tab=repositories&q=is%3Afork"><img src="https://img.shields.io/badge/Forked%20Projects-10B981?style=for-the-badge&logo=git&logoColor=05080A" alt="Forked projects"/></a>
 </div>
 
 ---
@@ -124,12 +100,8 @@ Explore open-source repositories I've forked and followed.
 
 <div align="center">
 
-<a href="https://github.com/parthmahajan30">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=parthmahajan30&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=10B981&text_color=C9D1D9" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/parthmahajan30">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthmahajan30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" alt="Most used languages"/>
-</a>
+<a href="https://github.com/parthmahajan30"><img height="165" src="https://github-readme-stats.vercel.app/api?username=parthmahajan30&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=10B981&text_color=C9D1D9" alt="GitHub statistics"/></a>
+<a href="https://github.com/parthmahajan30"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthmahajan30&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" alt="Most used languages"/></a>
 
 <br/>
 
@@ -143,13 +115,44 @@ Explore open-source repositories I've forked and followed.
 
 <div align="center">
 
+### Contribution activity
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=parthmahajan30&bg_color=0D1117&color=00FF88&line=10B981&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+
+### Contribution calendar
+
+<img src="https://ghchart.rshah.org/00FF88/parthmahajan30" width="100%" alt="GitHub contribution calendar in neon green"/>
+
+[View the full contribution history on GitHub →](https://github.com/parthmahajan30?tab=overview)
 
 </div>
 
 ---
 
-## `07` — Snake game: contribution hunt 🐍
+## `07` — Play the next move ♟️
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────┐
+│  ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜              │
+│  ♟  ♟  ♟  ♟  ♟  ♟  ♟  ♟              │
+│  ·  ░  ·  ░  ·  ░  ·  ░              │
+│  ░  ·  ░  ·  ░  ·  ░  ·              │
+│  ·  ░  ·  ░  ·  ░  ·  ░              │
+│  ░  ·  ░  ·  ░  ·  ░  ·              │
+│  ♙  ♙  ♙  ♙  ♙  ♙  ♙  ♙              │
+│  ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖              │
+└──────────────────────────────────────────┘
+```
+
+**Every commit is a move. Every project is a new position.**
+
+</div>
+
+---
+
+## `08` — Snake game: contribution hunt 🐍
 
 <div align="center">
 
