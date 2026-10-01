@@ -1,14 +1,18 @@
 <div align="center">
 
-<!-- PARTH MAHAJAN • TERMINAL PROFILE -->
+<p><sub>AN EDITORIAL PROFILE · PARTHMAHAJAN30</sub></p>
 
-<table>
-<tr><td align="center">
+<a href="https://github.com/parthmahajan30">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0:174E47,35:267F75,70:397C9D,100:273F78&text=Parth%20Mahajan&fontColor=F1FFF8&fontSize=38&fontAlignY=48&desc=Building%20with%20code%20on%20GitHub.&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Parth Mahajan — building with code on GitHub"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=135&color=0:123C3C,45:176B67,100:243D70&text=✚%20Parth%20Mahajan&fontColor=E8FFF6&fontSize=34&fontAlignY=42&desc=Open%20Source%20%20%7C%20%20Projects%20%20%7C%20%20Build%20in%20Public&descAlignY=70&descSize=13" width="100%" alt="Parth Mahajan profile banner"/>
+<a href="https://github.com/parthmahajan30"><img src="https://img.shields.io/badge/Open%20Source-173F3A?style=flat&logo=github&logoColor=E9FFF7&labelColor=173F3A" alt="Open source"/></a>
+<a href="https://github.com/parthmahajan30?tab=repositories"><img src="https://img.shields.io/badge/Projects-173F3A?style=flat&logo=git&logoColor=E9FFF7&labelColor=173F3A" alt="Projects"/></a>
+<a href="https://github.com/parthmahajan30?tab=repositories"><img src="https://img.shields.io/badge/Systems-173F3A?style=flat&logo=code&logoColor=E9FFF7&labelColor=173F3A" alt="Systems"/></a>
 
-</td></tr>
-</table>
+</div>
+
+<div align="center">
 
 ```text
 ██████╗  █████╗ ██████╗ ████████╗██╗  ██╗
@@ -23,11 +27,11 @@
 
 Building useful things and sharing the work in public.
 
-[GitHub](https://github.com/parthmahajan30)　·　[Repositories](https://github.com/parthmahajan30?tab=repositories)
+[GitHub](https://github.com/parthmahajan30)
+
+**─────── ◦ ───────**
 
 </div>
-
----
 
 ## The point of view
 
@@ -45,17 +49,20 @@ Small teams, ambitious ideas, and useful collaborations.
 **PROFILE**
 
 - **ROLE** · Product-minded developer
-- **FOCUS** · Open source and projects
-- **STATUS** · Building and learning
-- **HOME** · GitHub
+- **BASED** · The public internet
+- **FOCUS** · Building in public
 
-[Explore my profile →](https://github.com/parthmahajan30)
+**REPOSITORIES** · [Browse](https://github.com/parthmahajan30?tab=repositories)
+
+**CONTRIBUTIONS** · [Activity](https://github.com/parthmahajan30?tab=overview)
+
+**FOLLOWERS** · [Profile](https://github.com/parthmahajan30)
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">**─────── ◦ ───────**</div>
 
 ## In the current cut
 
@@ -74,37 +81,41 @@ A point of view shaped by shipped work.
 
 ### PUBLIC REPOSITORIES
 
-Explore projects, experiments, and code.
+A body of work in motion.
 
-[Browse repos →](https://github.com/parthmahajan30?tab=repositories)
+[Explore repositories →](https://github.com/parthmahajan30?tab=repositories)
 
 </td>
 <td width="33%" valign="top">
 
 ### OPEN SOURCE
 
-Forks, fixes, and learning in public.
+Community signal around the work.
 
-[Browse forks →](https://github.com/parthmahajan30?tab=repositories&q=is%3Afork)
+[Explore forks →](https://github.com/parthmahajan30?tab=repositories&q=is%3Afork)
 
 </td>
 </tr>
 </table>
 
-<p align="center"><i>The ideas, experiments, and decisions moving the work forward.</i></p>
+<div align="center">
 
----
+<sub>The ideas, experiments, and decisions moving the work forward.</sub>
+
+**─────── ◦ ───────**
+
+</div>
 
 ## Connect
 
 <div align="center">
 
-<a href="https://github.com/parthmahajan30" title="GitHub"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/></a>
-<a href="https://github.com/parthmahajan30?tab=repositories" title="Repositories"><img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=git&logoColor=00FF88" alt="Repositories"/></a>
+<a href="https://github.com/parthmahajan30" title="GitHub"><img src="https://img.shields.io/badge/GitHub-173F3A?style=for-the-badge&logo=github&logoColor=E9FFF7" alt="GitHub"/></a>
+<a href="https://github.com/parthmahajan30?tab=repositories" title="Repositories"><img src="https://img.shields.io/badge/Repositories-173F3A?style=for-the-badge&logo=git&logoColor=E9FFF7" alt="Repositories"/></a>
 
 </div>
 
----
+<div align="center">**─────── ◦ ───────**</div>
 
 ## Featured reel
 
@@ -112,69 +123,71 @@ Forks, fixes, and learning in public.
 <tr>
 <td width="50%" valign="top">
 
-### `01` — Original projects
+### `01` — My GitHub profile
 
-A growing collection of practical builds, experiments, and developer work.
+`parthmahajan30/parthmahajan30`
 
-[**Explore repositories →**](https://github.com/parthmahajan30?tab=repositories)
+My profile, projects, experiments, and code.
+
+[Open profile repository →](https://github.com/parthmahajan30/parthmahajan30)
 
 </td>
 <td width="50%" valign="top">
 
 ### `02` — Forked projects
 
-Open-source projects I've forked to explore, learn from, and contribute to.
+Open-source projects I’ve forked to explore, learn from, and contribute to.
 
-[**Explore forked repositories →**](https://github.com/parthmahajan30?tab=repositories&q=is%3Afork)
+[Browse forked repositories →](https://github.com/parthmahajan30?tab=repositories&q=is%3Afork)
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">**─────── ◦ ───────**</div>
 
 ## Contribution trail
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthmahajan30&bg_color=102B2B&color=E5FFF7&line=45D6B5&point=FFFFFF&area=true&hide_border=true&custom_title=53%20contributions%2C%20one%20continuous%20run" width="100%" alt="Contribution trail activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthmahajan30&bg_color=102B2B&color=E5FFF7&line=45D6B5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20trail" width="100%" alt="GitHub contribution activity graph"/>
 
 <br/>
 
 <img src="https://ghchart.rshah.org/45D6B5/parthmahajan30" width="100%" alt="GitHub contribution calendar"/>
 
-[View my contribution history →](https://github.com/parthmahajan30?tab=overview)
+[View contribution history →](https://github.com/parthmahajan30?tab=overview)
 
 </div>
 
----
+<div align="center">**─────── ◦ ───────**</div>
 
 ## Play the next move
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────┐
-│  ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜              │
-│  ♟  ♟  ♟  ♟  ♟  ♟  ♟  ♟              │
-│  ░  ·  ░  ·  ░  ·  ░  ·              │
-│  ·  ░  ·  ░  ·  ░  ·  ░              │
-│  ░  ·  ░  ·  ░  ·  ░  ·              │
-│  ·  ░  ·  ░  ·  ░  ·  ░              │
-│  ♙  ♙  ♙  ♙  ♙  ♙  ♙  ♙              │
-│  ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖              │
-└──────────────────────────────────────────┘
+┌──────────────────────────────────────┐
+│  ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜            │
+│  ♟  ♟  ♟  ♟  ♟  ♟  ♟  ♟            │
+│  ░  ·  ░  ·  ░  ·  ░  ·            │
+│  ·  ░  ·  ░  ·  ░  ·  ░            │
+│  ░  ·  ░  ·  ░  ·  ░  ·            │
+│  ·  ░  ·  ░  ·  ░  ·  ░            │
+│  ♙  ♙  ♙  ♙  ♙  ♙  ♙  ♙            │
+│  ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖            │
+└──────────────────────────────────────┘
 ```
 
 ### Keep the story moving.
 
 Every commit is a move. Every project is a new position.
 
-[Connect on GitHub](https://github.com/parthmahajan30)
+[Connect on GitHub →](https://github.com/parthmahajan30)
 
 </div>
 
----
+<div align="center">**─────── ◦ ───────**</div>
 
 ## Snake game · contribution hunt 🐍
 
@@ -183,11 +196,9 @@ Every commit is a move. Every project is a new position.
 ![Contribution snake — dark mode](https://raw.githubusercontent.com/parthmahajan30/parthmahajan30/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![Contribution snake — light mode](https://raw.githubusercontent.com/parthmahajan30/parthmahajan30/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<sub>The animated snake is generated by the repository's GitHub Actions workflow.</sub>
+<sub>Animated contribution snake · generated by GitHub Actions</sub>
 
 </div>
-
----
 
 <div align="center">
 
@@ -196,6 +207,6 @@ parthmahajan30@github:~$ echo "keep building"
 keep building
 ```
 
-<sub>Dark terminal · Mint neon · Built in public</sub>
+<sub>Dark terminal · Teal glow · Built in public</sub>
 
 </div>
