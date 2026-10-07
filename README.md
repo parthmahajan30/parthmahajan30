@@ -1,27 +1,14 @@
 <div align="center">
 
-<p><sub>AN EDITORIAL PROFILE · PARTHMAHAJAN30</sub></p>
+<sub>AN EDITORIAL PROFILE · PARTHMAHAJAN30</sub>
 
-<a href="https://github.com/parthmahajan30">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=175&color=0:174E47,35:267F75,70:397C9D,100:273F78&text=Parth%20Mahajan&fontColor=F1FFF8&fontSize=38&fontAlignY=48&desc=Building%20with%20code%20on%20GitHub.&descAlignY=68&descSize=13&animation=fadeIn" width="100%" alt="Parth Mahajan — building with code on GitHub"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/parthmahajan30"><img src="https://img.shields.io/badge/Open%20Source-173F3A?style=flat&logo=github&logoColor=E9FFF7&labelColor=173F3A" alt="Open source"/></a>
-<a href="https://github.com/parthmahajan30?tab=repositories"><img src="https://img.shields.io/badge/Projects-173F3A?style=flat&logo=git&logoColor=E9FFF7&labelColor=173F3A" alt="Projects"/></a>
-<a href="https://github.com/parthmahajan30?tab=repositories"><img src="https://img.shields.io/badge/Systems-173F3A?style=flat&logo=code&logoColor=E9FFF7&labelColor=173F3A" alt="Systems"/></a>
+<a href="https://github.com/parthmahajan30"><img src="assets/hero.png" width="100%" alt="Parth Mahajan — building useful things and sharing the work in public"/></a>
 
-</div>
+[Open Source](https://github.com/parthmahajan30) · [Projects](https://github.com/parthmahajan30?tab=repositories) · [Systems](#production-palette)
 
-<div align="center">
-
-```text
-██████╗  █████╗ ██████╗ ████████╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
-██████╔╝███████║██████╔╝   ██║   ███████║
-██╔═══╝ ██╔══██║██╔══██╗   ██║   ██╔══██║
-██║     ██║  ██║██║  ██║   ██║   ██║  ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+<img src="assets/terminal.png" width="100%" alt="A dark teal terminal spelling PARTH"/>
 
 ### Product-minded developer · the public internet
 
@@ -43,170 +30,134 @@ Building useful things and sharing the work in public.
 
 Small teams, ambitious ideas, and useful collaborations.
 
+Part of the **AgriCool team**, exploring cold-chain intelligence through web interfaces and IoT workflows.
+
 </td>
 <td width="42%" valign="top">
 
 **PROFILE**
 
-- **ROLE** · Product-minded developer
-- **BASED** · The public internet
-- **FOCUS** · Building in public
+**ROLE** · Product-minded developer<br/>
+**FOCUS** · Web interfaces, IoT, open source<br/>
+**CURRENT REEL** · AgriCool
 
-**REPOSITORIES** · [Browse](https://github.com/parthmahajan30?tab=repositories)
-
-**CONTRIBUTIONS** · [Activity](https://github.com/parthmahajan30?tab=overview)
-
-**FOLLOWERS** · [Profile](https://github.com/parthmahajan30)
+[Repositories →](https://github.com/parthmahajan30?tab=repositories)<br/>
+[Contribution history →](https://github.com/parthmahajan30?tab=overview)
 
 </td>
 </tr>
 </table>
 
-<div align="center">**─────── ◦ ───────**</div>
+<p align="center">─────── ◦ ───────</p>
 
 ## In the current cut
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="assets/highlights.png" width="100%" alt="Highlights: product-minded developer, AgriCool team member, and open-source exploration"/>
 
-### HIGHLIGHTS
+<p align="center"><sub>The ideas, experiments, and decisions moving the work forward.</sub></p>
 
-**Product-minded developer**
+<p align="center">─────── ◦ ───────</p>
 
-A point of view shaped by shipped work.
+## Production palette
 
-</td>
-<td width="33%" valign="top">
+<p align="center">
+<img src="https://img.shields.io/badge/React-173F3A?style=flat-square&amp;logo=react&amp;logoColor=9AF4DE" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-173F3A?style=flat-square&amp;logo=typescript&amp;logoColor=9AF4DE" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-173F3A?style=flat-square&amp;logo=javascript&amp;logoColor=9AF4DE" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Vite-173F3A?style=flat-square&amp;logo=vite&amp;logoColor=9AF4DE" alt="Vite"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-173F3A?style=flat-square&amp;logo=tailwindcss&amp;logoColor=9AF4DE" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/ESP32_%2F_Wokwi-173F3A?style=flat-square&amp;logo=espressif&amp;logoColor=9AF4DE" alt="ESP32 and Wokwi"/>
+</p>
 
-### PUBLIC REPOSITORIES
-
-A body of work in motion.
-
-[Explore repositories →](https://github.com/parthmahajan30?tab=repositories)
-
-</td>
-<td width="33%" valign="top">
-
-### OPEN SOURCE
-
-Community signal around the work.
-
-[Explore forks →](https://github.com/parthmahajan30?tab=repositories&q=is%3Afork)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<sub>The ideas, experiments, and decisions moving the work forward.</sub>
-
-**─────── ◦ ───────**
-
-</div>
-
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/parthmahajan30" title="GitHub"><img src="https://img.shields.io/badge/GitHub-173F3A?style=for-the-badge&logo=github&logoColor=E9FFF7" alt="GitHub"/></a>
-<a href="https://github.com/parthmahajan30?tab=repositories" title="Repositories"><img src="https://img.shields.io/badge/Repositories-173F3A?style=for-the-badge&logo=git&logoColor=E9FFF7" alt="Repositories"/></a>
-
-</div>
-
-<div align="center">**─────── ◦ ───────**</div>
+<p align="center"><sub>Tools used across the projects I work on and explore.</sub></p>
+<p align="center">Open source · tools chosen for the work, not the trend.</p>
+<p align="center">─────── ◦ ───────</p>
 
 ## Featured reel
 
+<img src="assets/projects.png" width="100%" alt="Selected work: AgriCool team project, Avenx.js fork, and Awesome LLM Apps fork"/>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="top">
 
-### `01` — My GitHub profile
+### [AgriCool](https://github.com/parthmahajan30/skh2)
 
-`parthmahajan30/parthmahajan30`
+**Team project · hackathon prototype**
 
-My profile, projects, experiments, and code.
+Cold-chain intelligence connecting farmer, storage, logistics, and governance workflows. React/TypeScript interfaces with ESP32/Wokwi demonstrations.
 
-[Open profile repository →](https://github.com/parthmahajan30/parthmahajan30)
+Team: Abhijay Junnare, Parth Mahajan, Janhavi Borade, Aditya Inamke.
+
+[Original team repository →](https://github.com/aaditya755/skh2)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### `02` — Forked projects
+### [Avenx.js](https://github.com/parthmahajan30/avenx-js)
 
-Open-source projects I’ve forked to explore, learn from, and contribute to.
+**Open-source fork · JavaScript**
 
-[Browse forked repositories →](https://github.com/parthmahajan30?tab=repositories&q=is%3Afork)
+A compiler-driven frontend framework with proxy-based reactivity. Part of my exploration of frontend systems.
+
+[Upstream project →](https://github.com/Avenx-JS/avenx-js)
+
+</td>
+<td width="33%" valign="top">
+
+### [Awesome LLM Apps](https://github.com/parthmahajan30/awesome-llm-apps)
+
+**Open-source fork · AI exploration**
+
+A collection of AI agents, agent skills, and RAG application examples to explore and learn from.
+
+[Upstream collection →](https://github.com/Shubhamsaboo/awesome-llm-apps)
 
 </td>
 </tr>
 </table>
 
-<div align="center">**─────── ◦ ───────**</div>
+<p align="center">─────── ◦ ───────</p>
 
 ## Contribution trail
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthmahajan30&bg_color=102B2B&color=E5FFF7&line=45D6B5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20trail" width="100%" alt="GitHub contribution activity graph"/>
+**SNAKE TRAIL · ONE CONTINUOUS RUN**
 
-<br/>
-
-<img src="https://ghchart.rshah.org/45D6B5/parthmahajan30" width="100%" alt="GitHub contribution calendar"/>
+<!-- Run the included contribution-snake workflow after uploading the files. -->
+<img src="https://raw.githubusercontent.com/parthmahajan30/parthmahajan30/output/github-contribution-grid-snake.svg" width="100%" alt="Animated snake following Parth Mahajan's real GitHub contribution calendar"/>
 
 [View contribution history →](https://github.com/parthmahajan30?tab=overview)
 
+<sub>Generated from my GitHub activity · refreshed daily</sub>
+
 </div>
 
-<div align="center">**─────── ◦ ───────**</div>
+<p align="center">─────── ◦ ───────</p>
 
 ## Play the next move
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────┐
-│  ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜            │
-│  ♟  ♟  ♟  ♟  ♟  ♟  ♟  ♟            │
-│  ░  ·  ░  ·  ░  ·  ░  ·            │
-│  ·  ░  ·  ░  ·  ░  ·  ░            │
-│  ░  ·  ░  ·  ░  ·  ░  ·            │
-│  ·  ░  ·  ░  ·  ░  ·  ░            │
-│  ♙  ♙  ♙  ♙  ♙  ♙  ♙  ♙            │
-│  ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖            │
-└──────────────────────────────────────┘
-```
+<img src="assets/chess.gif" width="390" alt="Animated chessboard replaying the opening moves of the Italian Game"/>
 
-### Keep the story moving.
+<sub>An opening replay · every commit is another move.</sub>
 
-Every commit is a move. Every project is a new position.
+**─────── ◦ ───────**
+
+<br/>
+
+<sub>THE NEXT SCENE</sub>
+
+### Keep the story moving
+
+I enjoy working with people who care about the details, share the context, and ship something useful.
 
 [Connect on GitHub →](https://github.com/parthmahajan30)
 
-</div>
+<br/>
 
-<div align="center">**─────── ◦ ───────**</div>
-
-## Snake game · contribution hunt 🐍
-
-<div align="center">
-
-![Contribution snake — dark mode](https://raw.githubusercontent.com/parthmahajan30/parthmahajan30/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Contribution snake — light mode](https://raw.githubusercontent.com/parthmahajan30/parthmahajan30/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<sub>Animated contribution snake · generated by GitHub Actions</sub>
-
-</div>
-
-<div align="center">
-
-```text
-parthmahajan30@github:~$ echo "keep building"
-keep building
-```
-
-<sub>Dark terminal · Teal glow · Built in public</sub>
+<sub>Parth Mahajan · Dark terminal · Teal glow · Built in public</sub>
 
 </div>
